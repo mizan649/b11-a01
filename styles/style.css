@@ -73,4 +73,16 @@ main{
       color: #0E0E0E;
 }
 
+section{
+      margin-bottom: 80px;
+}
+/* Pillar Of Bangladesh Section */
+.pillars{
+      display: flex;
+}
+.pillar-title{
+      font-size: 40px;
+      font-weight: bold;
+}
+
 
