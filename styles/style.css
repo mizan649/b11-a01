@@ -451,13 +451,10 @@ button:hover {
       background-color: #FF0000;
       color: white;
 }
-
 .s-btn:hover {
       background-color: #FF0000;
       color: white;
-
 }
-
 .sp-hover:hover {
       transform: translateY(-10px);
       box-shadow: 0 12px 18px 20px rgba(0, 0, 0, 0.2);
