@@ -453,7 +453,7 @@ th {
 button:hover {
       background-color: #FF0000;
       color: white;
-      padding: 3% 5%;
+      padding: 3% 3%;
 }
 
 .s-btn:hover {
@@ -465,4 +465,19 @@ button:hover {
 .sp-hover:hover {
       transform: translateY(-10px);
       box-shadow: 0 12px 18px 20px rgba(0, 0, 0, 0.2);
+}
+.am-2{
+      background-color: #C6E4D6;
+}
+.amount:hover{
+      transform: translateY(-8px);
+      box-shadow: 0 12px 18px 20px rgba(0, 0, 0, 0.2);
+      color: white;
+      background-color: green;
+}
+.sp-hover1:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 12px 18px 20px rgba(0, 0, 0, 0.2);
+      padding: 20px;
+      border-radius: 10px;
 }
