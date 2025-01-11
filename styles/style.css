@@ -30,7 +30,6 @@ header>nav>ul>a {
       color: #006A50;
       font-size: 18px;
       font-weight: 600px;
-      /* background-color: #F5F5F5; */
       background-color: white;
       padding: 15px 30px;
       border: 1px solid #006A50;
@@ -45,7 +44,6 @@ main {
 .new-bangladesh {
       display: flex;
       gap: 60px;
-      /* align-items: center; */
       justify-content: space-between;
       background-color: #C6E4D6;
       padding: 60px;
@@ -441,7 +439,6 @@ th {
 
 .h-r {
       color: rgba(14, 14, 14, 10%);
-      /* background-color: red; */
       border: 1px solid rgba(14, 14, 14, 10%);
 }
 
@@ -453,13 +450,12 @@ th {
 button:hover {
       background-color: #FF0000;
       color: white;
-      padding: 3% 3%;
 }
 
 .s-btn:hover {
       background-color: #FF0000;
       color: white;
-      padding: 1.5%;
+
 }
 
 .sp-hover:hover {
