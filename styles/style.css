@@ -290,6 +290,9 @@ th{
       margin-top: 30px;
 }
 
+.text-center{
+      text-align: center;
+}
 .news-title{
       margin-bottom: 0;
       font-size: 28px;
@@ -321,4 +324,44 @@ th{
       color:rgba(14, 14, 14, 70%) ;
       font-size: 16px;
       font-weight: 400;
+}
+.taka{
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+}
+.amount{
+      /* width: 250px; */
+      /* height: 130px; */
+      border: 1px solid  rgba(14, 14, 14, 10%);
+      background-color: #FFFFFF;
+      box-shadow: 0px 60px 50px 50px rgba(0, 0, 0, 0.05);
+      padding: 35px;
+      font-size: 35px;
+      font-weight: bold;
+      text-align: center;
+      border-radius: 16px;
+}
+.donate>input{
+      display: block;
+      width: 100%;
+      text-align: center;
+      padding: 20px;
+      font-size: 24px;
+      margin: 30px auto;
+      /* border: 1px solid  rgba(14, 14, 14, 10%); */
+      border: none;
+      background-color: #FFFFFF;
+      box-shadow: 0px 60px 50px 50px rgba(0, 0, 0, 0.05);
+      border-radius:5px ;
+}
+.donate-btn{
+      text-align: center;
+}
+
+.donate-description{
+      color:rgba(14, 14, 14, 70%) ;
+      font-size: 16px;
+      font-weight: 400;
+      margin-top: 0;
 }
